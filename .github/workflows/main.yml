@@ -22,4 +22,4 @@ jobs:
           plugin_languages_ignored: HTML
           plugin_tweets: yes
           plugin_tweets_user: @vanAkim_ee
-          plugin_tweets_token: 4NuG53Os3H25uMhnAfyidZkrc
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
