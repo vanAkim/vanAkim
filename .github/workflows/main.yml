@@ -23,3 +23,4 @@ jobs:
           plugin_tweets: yes
           plugin_tweets_user: @vanAkim_ee
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          plugin_tweets_limit: 4
