@@ -1,7 +1,7 @@
 ### Hello, there 👋
 
 ## I'm currently a data scientist, a graduate engineer and my first love is physics.  
-1️⃣ For now, I enjoy using ![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) and ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white), especially through Jupyter Notebook. I am always ecstatic when I discover a new functionality in the different packages of data manipulation (pandas, tidyr, data.table), dataviz (matplotlib, seaborn, ggplot), and regressions and machine learning (scikit-learn, caret, randomforest).
+1️⃣ For now, I enjoy using ![image](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white) and ![image](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white), especially through Jupyter Notebook. I am always ecstatic when I discover a new functionality in the different packages of data manipulation (pandas, tidyr, data.table), dataviz (matplotlib, seaborn, ggplot), and regressions and machine learning (scikit-learn, caret, randomforest).
 
 2️⃣ Less regularly, I touched a lot of other frameworks, such as the creation of maps (leaflet, folium, basemap), database management (MySQL, IBM DB), interactive solutions (plotly, shiny, googlevis, jupyter widgets), text analysis (quanteda, nltk).
 
@@ -11,4 +11,4 @@
 
 ### Social
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/Twitter.svg" />](https://twitter.com/vanAkim_ee)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/Twitter.svg" />][https://twitter.com/vanAkim_ee]
