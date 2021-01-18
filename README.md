@@ -11,15 +11,47 @@
 
 | Action      | Framework |
 |-------------|-----------|
-| Data manipulation |![image](https://img.shields.io/badge/pandas-python-%233776AB?logo=pandas&logoColor=white&labelColor=150458) ![image](https://img.shields.io/badge/tidyr-R-276DC3) ![image](https://img.shields.io/badge/data.table-R-276DC3)|
-| Dataviz           |![image](https://img.shields.io/badge/matplotlib-python-%233776AB) ![image](https://img.shields.io/badge/seaborn-python-%233776AB) ![image](https://img.shields.io/badge/ggplot2-R-276DC3)|
-| Regression & ML   |![image](https://img.shields.io/badge/scikit--learn-python-%233776AB?logo=scikit-learn&logoColor=white&labelColor=F7931E) ![image](https://img.shields.io/badge/caret-R-276DC3) ![image](https://img.shields.io/badge/randomforest-R-276DC3)|
-| Maps        |![image](https://img.shields.io/badge/leaflet-R-276DC3?logo=leaflet&logoColor=white&labelColor=199900) ![image](https://img.shields.io/badge/folium-python-%233776AB?logo=folium&logoColor=white&labelColor=77B829) ![image](https://img.shields.io/badge/basemap-python-%233776AB)|
-| SQL         |![image](https://img.shields.io/badge/MySQL-R-276DC3?logo=mysql&logoColor=white&labelColor=4479A1) ![image](https://img.shields.io/badge/IBM--Db2-python-%233776AB)|
-| Interact    |![image](https://img.shields.io/badge/plotly-R-276DC3) ![image](https://img.shields.io/badge/shiny-R-276DC3) ![image](https://img.shields.io/badge/googlevis-R-276DC3)|
-| Text mining |![image](https://img.shields.io/badge/quanteda-R-276DC3) ![image](https://img.shields.io/badge/nltk-python-%233776AB)|
+| Data manipulation |[![image](https://img.shields.io/badge/pandas-python-%233776AB?logo=pandas&logoColor=white&labelColor=150458)](https://pandas.pydata.org/) [![image](https://img.shields.io/badge/tidyr-R-276DC3)](https://tidyr.tidyverse.org/) [![image](https://img.shields.io/badge/data.table-R-276DC3)](https://www.rdocumentation.org/packages/data.table/versions/1.13.6)|
+| Dataviz           |[![image](https://img.shields.io/badge/matplotlib-python-%233776AB)](https://matplotlib.org/) [![image](https://img.shields.io/badge/seaborn-python-%233776AB)](https://seaborn.pydata.org/) [![image](https://img.shields.io/badge/ggplot2-R-276DC3)](https://www.rdocumentation.org/packages/ggplot2)|
+| Regression & ML   |[![image](https://img.shields.io/badge/scikit--learn-python-%233776AB?logo=scikit-learn&logoColor=white&labelColor=F7931E)](https://scikit-learn.org/stable/index.html#) ![image](https://img.shields.io/badge/caret-R-276DC3) [![image](https://img.shields.io/badge/randomforest-R-276DC3)](https://topepo.github.io/caret/index.html)|
+| Maps        |[![image](https://img.shields.io/badge/leaflet-R-276DC3?logo=leaflet&logoColor=white&labelColor=199900)](https://leafletjs.com/) [![image](https://img.shields.io/badge/folium-python-%233776AB?logo=folium&logoColor=white&labelColor=77B829)](https://python-visualization.github.io/folium/)|
+| SQL         |[![image](https://img.shields.io/badge/MySQL-R-276DC3?logo=mysql&logoColor=white&labelColor=4479A1)](https://db.rstudio.com/databases/my-sql/) [![image](https://img.shields.io/badge/IBM--Db2-python-%233776AB)](https://www.ibm.com/analytics/db2)|
+| Interact    |[![image](https://img.shields.io/badge/plotly-R-276DC3)](https://plotly.com/) [![image](https://img.shields.io/badge/shiny-R-276DC3)](https://shiny.rstudio.com/)|
+| Text mining |[![image](https://img.shields.io/badge/quanteda-R-276DC3)](http://quanteda.io/) [![image](https://img.shields.io/badge/nltk-python-%233776AB)](https://www.nltk.org/)|
 
 ## Projects on Github
+
+* [![image](https://img.shields.io/badge/-Meteoroligical_events-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Reproducible%20Research/FinalProject)  
+      - **Timeline**: *JHU Specialization, Reproducible Research, course n°5*  
+      - **Topics**: R, Get & Clean, Data analysis, Dataviz
+
+* [![image](https://img.shields.io/badge/-Central_Limit_Theorem-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Statistical%20Inference/FinalProject)  
+      - **Timeline**: *JHU Specialization, Reproducible Research, course n°6*  
+      - **Topics**: R, Statistics, Data analysis, Dataviz
+
+* [![image](https://img.shields.io/badge/-Motor_trend-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Statistical%20Inference/FinalProject)  
+      - **Timeline**: *JHU Specialization, Regression Models, course n°7*  
+      - **Topics**: R, EDA Regression, Data analysis, Dataviz
+
+* [![image](https://img.shields.io/badge/-Human_Activity_Recognition-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Practical%20Machine%20Learning/FinalProject)  
+      - **Timeline**: *JHU Specialization, Practical Machine Learning, course n°8*  
+      - **Topics**: R, Machine learning, Dataviz
+
+* [![image](https://img.shields.io/badge/-Toulouse_Postcodes_Map-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Data%20Products/FinalProject) [![image](https://img.shields.io/badge/-Toulouse_Postcodes_Map-4285F4?logo=google-maps&style=flat-square&logoColor=white)](https://vanakim.shinyapps.io/ToulouseMap/)   
+      - **Timeline**: *JHU Specialization, Data Products, course n°9*  
+      - **Topics**: R, Get & Clean, Dataviz, Maps, Data products
+
+* [![image](https://img.shields.io/badge/-Next_Word_Prediction-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Data%20Science%20Capstone) [![image](https://img.shields.io/badge/-Next_Word_Prediction_App-4285F4?style=flat-square)](https://vanakim.shinyapps.io/SwiftKey_Proof-of-concept/)   
+      - **Timeline**: *JHU Specialization, Capstone project, course n°10*  
+      - **Topics**: R, NLP & Text mining, EDA, Dataviz, Data products
+
+* [![image](https://img.shields.io/badge/-Classification_with_Python-F37626?logo=jupyter&logoColor=white&style=flat-square)](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/77a1ee2e-5d58-493f-81ae-5ee89423e3b0/view?access_token=03513cd500a9c5e0d19c5be5de14a9e5858ab0d1f4ca878597ed99a2f2045e87)  
+      - **Timeline**: *IBM Certificate, Machine Learning with Python, course n°8*  
+      - **Topics**: Python, Get & Clean, Regressions, Machine learning
+
+* [![image](https://img.shields.io/badge/-Culture_venues_clustering_in_Toulouse-181717?logo=github&style=flat-square)](https://github.com/vanAkim/IBM.Data.Science.Professional.Certificate/tree/main/9-Capstone_Project/FinalProject)  
+      - **Timeline**: *IBM Certificate, Capstone project, course n°9*  
+      - **Topics**: Python, EDA, Machine learning, Data analysis, Dataviz, Maps
 
 <!---
 * [![image](https://img.shields.io/badge/-Tidy_data-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Learning_ETL_EDA)  
@@ -27,6 +59,7 @@
       - **Topics**: ![image](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white) ![image](https://img.shields.io/badge/-Get_&_Clean-8478EB)
 -->
 
+<!---
 * [![image](https://img.shields.io/badge/-Meteoroligical_events-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Reproducible%20Research/FinalProject)  
       - **Timeline**: *JHU Specialization, Reproducible Research, course n°5*  
       - **Topics**: ![image](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white) ![image](https://img.shields.io/badge/-Get_&_Clean-8478EB) ![image](https://img.shields.io/badge/-Analysis-D7F086) ![image](https://img.shields.io/badge/-Dataviz-F5C658)
@@ -34,7 +67,6 @@
 * [![image](https://img.shields.io/badge/-Central_Limit_Theorem-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Statistical%20Inference/FinalProject)  
       - **Timeline**: *JHU Specialization, Reproducible Research, course n°6*  
       - **Topics**: ![image](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white) ![image](https://img.shields.io/badge/-Statistics-00DBAC) ![image](https://img.shields.io/badge/-Analysis-D7F086) ![image](https://img.shields.io/badge/-Dataviz-F5C658)
-      - Topics: Statistics, Inference, Dataviz, Data Analysis
 
 * [![image](https://img.shields.io/badge/-Motor_trend-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Statistical%20Inference/FinalProject)  
       - **Timeline**: *JHU Specialization, Regression Models, course n°7*  
@@ -59,7 +91,7 @@
 * [![image](https://img.shields.io/badge/-Culture_venues_clustering_in_Toulouse-181717?logo=github&style=flat-square)](https://github.com/vanAkim/IBM.Data.Science.Professional.Certificate/tree/main/9-Capstone_Project/FinalProject)  
       - **Timeline**: *IBM Certificate, Capstone project, course n°9*  
       - **Topics**: ![image](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white) ![image](https://img.shields.io/badge/-EDA-359EF5) ![image](https://img.shields.io/badge/-Machine_learning-62F56E) ![image](https://img.shields.io/badge/-Analysis-D7F086) ![image](https://img.shields.io/badge/-Dataviz-F5C658) ![image](https://img.shields.io/badge/-Maps-F7DDA3)  
-
+-->
 
 <!---
 Python : ![image](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white)  
