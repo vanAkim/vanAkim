@@ -5,7 +5,7 @@
 [<img alt="vanAkim | Linkedin" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />](https://www.linkedin.com/in/akim-van-eersel-115553116/)   
 
 #### I'm currently a data scientist, a graduate engineer and my first love is physics.  
-1️⃣ For now, I enjoy using ![image](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white) and ![image](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white), especially through ![image](https://img.shields.io/badge/-Jupyter_Notebook-F37626?logo=jupyter&logoColor=white). I am always ecstatic when I discover a new functionality in the different packages of data manipulation, dataviz, and regressions and machine learning.
+1️⃣ For now, I enjoy using R and Python (especially through Jupyter Notebook). I am always ecstatic when I discover a new functionality in the different packages of data manipulation, dataviz, and regressions and machine learning.
 
 2️⃣ Less regularly, I touched a lot of other frameworks, such as the creation of maps, database management, interactive solutions, text analysis.
 
@@ -21,48 +21,47 @@
 
 ## Projects on Github
 
+<!---
+* [![image](https://img.shields.io/badge/-Tidy_data-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Learning_ETL_EDA)  
+      - **Timeline**: *JHU Specialization, Getting and Cleaning Data, course n°3*  
+      - **Topics**: ![image](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white) ![image](https://img.shields.io/badge/-Get_&_Clean-8478EB)
+-->
+
+* [![image](https://img.shields.io/badge/-Meteoroligical_events-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Reproducible%20Research/FinalProject)  
+      - **Timeline**: *JHU Specialization, Reproducible Research, course n°5*  
+      - **Topics**: ![image](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white) ![image](https://img.shields.io/badge/-Get_&_Clean-8478EB) ![image](https://img.shields.io/badge/-Analysis-D7F086) ![image](https://img.shields.io/badge/-Dataviz-F5C658)
+
+* [![image](https://img.shields.io/badge/-Central_Limit_Theorem-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Statistical%20Inference/FinalProject)  
+      - **Timeline**: *JHU Specialization, Reproducible Research, course n°6*  
+      - **Topics**: ![image](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white) ![image](https://img.shields.io/badge/-Statistics-00DBAC) ![image](https://img.shields.io/badge/-Analysis-D7F086) ![image](https://img.shields.io/badge/-Dataviz-F5C658)
+      - Topics: Statistics, Inference, Dataviz, Data Analysis
+
+* [![image](https://img.shields.io/badge/-Motor_trend-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Statistical%20Inference/FinalProject)  
+      - **Timeline**: *JHU Specialization, Regression Models, course n°7*  
+      - **Topics**: ![image](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white) ![image](https://img.shields.io/badge/-EDA-359EF5) ![image](https://img.shields.io/badge/-Regression-62F56E) ![image](https://img.shields.io/badge/-Analysis-D7F086) ![image](https://img.shields.io/badge/-Dataviz-F5C658)
+
+* [![image](https://img.shields.io/badge/-Human_Activity_Recognition-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Practical%20Machine%20Learning/FinalProject)  
+      - **Timeline**: *JHU Specialization, Practical Machine Learning, course n°8*  
+      - **Topics**: ![image](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white) ![image](https://img.shields.io/badge/-Machine_learning-62F56E) ![image](https://img.shields.io/badge/-Dataviz-F5C658)
+
+* [![image](https://img.shields.io/badge/-Toulouse_Postcodes_Map-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Data%20Products/FinalProject) [![image](https://img.shields.io/badge/-Toulouse_Postcodes_Map-4285F4?logo=google-maps&style=flat-square&logoColor=white)](https://vanakim.shinyapps.io/ToulouseMap/)   
+      - **Timeline**: *JHU Specialization, Data Products, course n°9*  
+      - **Topics**: ![image](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white) ![image](https://img.shields.io/badge/-Get_&_Clean-8478EB) ![image](https://img.shields.io/badge/-Dataviz-F5C658) ![image](https://img.shields.io/badge/-Maps-F7DDA3) ![image](https://img.shields.io/badge/-Data_Products-F76D5B)
+
+* [![image](https://img.shields.io/badge/-Next_Word_Prediction-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Data%20Science%20Capstone) [![image](https://img.shields.io/badge/-Next_Word_Prediction_App-7DCDA3?style=flat-square)](https://vanakim.shinyapps.io/SwiftKey_Proof-of-concept/)   
+      - **Timeline**: *JHU Specialization, Capstone project, course n°10*  
+      - **Topics**: ![image](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white) ![image](https://img.shields.io/badge/-NLP_&_Text_mining-54535C) ![image](https://img.shields.io/badge/-EDA-359EF5) ![image](https://img.shields.io/badge/-Dataviz-F5C658) ![image](https://img.shields.io/badge/-Data_Products-F76D5B)
+
 * [![image](https://img.shields.io/badge/-Classification_with_Python-F37626?logo=jupyter&logoColor=white&style=flat-square)](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/77a1ee2e-5d58-493f-81ae-5ee89423e3b0/view?access_token=03513cd500a9c5e0d19c5be5de14a9e5858ab0d1f4ca878597ed99a2f2045e87)  
-      - Timeline: IBM Certificate, Machine Learning with Python, course n°8  
-      - Topics: ![image](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white) ![image](https://img.shields.io/badge/-Get_&_Clean-8478EB) ![image](https://img.shields.io/badge/-Regression-62F56E) ![image](https://img.shields.io/badge/-Machine_learning-62F56E)
+      - **Timeline**: *IBM Certificate, Machine Learning with Python, course n°8*  
+      - **Topics**: ![image](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white) ![image](https://img.shields.io/badge/-Get_&_Clean-8478EB) ![image](https://img.shields.io/badge/-Regression-62F56E) ![image](https://img.shields.io/badge/-Machine_learning-62F56E)
 
-* [![image](https://img.shields.io/badge/-Capstone_Project-181717?logo=github&style=flat-square)](https://github.com/vanAkim/IBM.Data.Science.Professional.Certificate/tree/main/9-Capstone_Project/FinalProject)  
-      - Timeline: IBM Certificate, Capstone , course n°8  
-      - Topics: Get and Cleaning data, Exploratory Data Analysis, GEOJson data, Maps, Dataviz, Modelling, Machine Learning, Data analysis
-
-      * Course: Getting and Cleaning Data, n°3  
-            - Github: [Learning_ETL_EDA](https://github.com/vanAkim/Learning_ETL_EDA). *Needed to be a stand-alone repo for evaluation.*  
-            - Topics: Cleaning data, features engineering
-
-      * Course: Reproducible Research, n°5  
-            - Github: [Reproducible Research](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Reproducible%20Research/FinalProject)  
-            - Topics: Exploratory Data Analysis, Dataviz
-
-      * Course: Statistical Inference, n°6  
-            - Github: [Statistical Inference](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Statistical%20Inference/FinalProject)  
-            - Topics: Statistics, Inference, Dataviz, Data Analysis
-
-      * Course: Regression Models, n°7  
-            - Github: [Regression Models](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Regression%20Models/Final%20Project)  
-            - Topics: Exploratory Data Analysis, Dataviz, Modeling, Regressions, Data Analysis
-
-      * Course: Practical Machine Learning, n°8  
-            - Github: [Practical Machine Learning](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Practical%20Machine%20Learning/FinalProject)  
-            - Topics: Modeling, Machine Learning
-
-      * Course: Data Products, n°9  
-            - Github: [Data Products](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Data%20Products/FinalProject)  
-            - [Project overview slides deck](https://rpubs.com/vanAkim/ToulouseMapApp)  
-            - [Final product web app](https://vanakim.shinyapps.io/ToulouseMap/)
-            - Topics: Cleaning data, GEOJson data, Maps, Dataviz, Web products
-
-      * Course: Data Science Capstone, n°10  
-            - Github: [Data Science Capstone](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Data%20Science%20Capstone)  
-            - [Exploratory Data Analysis slides deck](https://rpubs.com/vanAkim/713704)  
-            - [Algorithm and methodology project overview slides deck](https://rpubs.com/vanAkim/713688)  
-            - [Proof of concept web app](https://vanakim.shinyapps.io/SwiftKey_Proof-of-concept/)  
-            - Topics: Exploratory Data Analysis, Natural Language Processing & Text Mining, Dataviz, Web products
+* [![image](https://img.shields.io/badge/-Culture_venues_clustering_in_Toulouse-181717?logo=github&style=flat-square)](https://github.com/vanAkim/IBM.Data.Science.Professional.Certificate/tree/main/9-Capstone_Project/FinalProject)  
+      - **Timeline**: *IBM Certificate, Capstone project, course n°9*  
+      - **Topics**: ![image](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white) ![image](https://img.shields.io/badge/-EDA-359EF5) ![image](https://img.shields.io/badge/-Machine_learning-62F56E) ![image](https://img.shields.io/badge/-Analysis-D7F086) ![image](https://img.shields.io/badge/-Dataviz-F5C658) ![image](https://img.shields.io/badge/-Maps-F7DDA3)  
 
 
+<!---
 Python : ![image](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white)  
 R : ![image](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white)  
 Jupyter Notebook : ![image](https://img.shields.io/badge/-Jupyter_Notebook-F37626?logo=jupyter&logoColor=white)  
@@ -73,6 +72,7 @@ Maps : ![image](https://img.shields.io/badge/-Maps-F7DDA3)
 Statistics : ![image](https://img.shields.io/badge/-Statistics-00DBAC)  
 Regressions : ![image](https://img.shields.io/badge/-Regression-62F56E)  
 Machine learning : ![image](https://img.shields.io/badge/-Machine_learning-62F56E)  
-NLP & Text mining : ![image](https://img.shields.io/badge/-NLP_&_Text_mining-31752D)  
+NLP & Text mining : ![image](https://img.shields.io/badge/-NLP_&_Text_mining-54535C)  
 Data analysis : ![image](https://img.shields.io/badge/-Analysis-D7F086)  
 Data products : ![image](https://img.shields.io/badge/-Data_Products-F76D5B)  
+-->
