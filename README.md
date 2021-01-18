@@ -19,7 +19,7 @@
 | Interact    |[![image](https://img.shields.io/badge/plotly-R-276DC3)](https://plotly.com/) [![image](https://img.shields.io/badge/shiny-R-276DC3)](https://shiny.rstudio.com/)|
 | Text mining |[![image](https://img.shields.io/badge/quanteda-R-276DC3)](http://quanteda.io/) [![image](https://img.shields.io/badge/nltk-python-%233776AB)](https://www.nltk.org/)|
 
-## Projects on Github
+## Trending Github projects and their main resources
 
 * [![image](https://img.shields.io/badge/-Meteoroligical_events-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Reproducible%20Research/FinalProject)  
       - **Timeline**: *JHU Specialization, Reproducible Research, course n°5*  
