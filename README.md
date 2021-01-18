@@ -2,7 +2,7 @@
 
 [<img align="left" alt="vanAkim | postcard" height="32" width="32" src="https://raw.githubusercontent.com/vanAkim/vanAkim/main/business-cards.svg" />](https://vanakim.github.io/postcard/bio.html)
 [<img align="left" alt="vanAkim | Twitter" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" />](https://twitter.com/vanAkim_ee)
-[<img align="left" alt="vanAkim | Linkedin" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />](https://www.linkedin.com/in/akim-van-eersel-115553116/)  
+[<img alt="vanAkim | Linkedin" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />](https://www.linkedin.com/in/akim-van-eersel-115553116/)   
 
 #### I'm currently a data scientist, a graduate engineer and my first love is physics.  
 1️⃣ For now, I enjoy using ![image](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white) and ![image](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white), especially through ![image](https://img.shields.io/badge/-Jupyter_Notebook-F37626?logo=jupyter&logoColor=white). I am always ecstatic when I discover a new functionality in the different packages of data manipulation, dataviz, and regressions and machine learning.
@@ -19,13 +19,14 @@
 | Interact    |![image](https://img.shields.io/badge/plotly-R-276DC3) ![image](https://img.shields.io/badge/shiny-R-276DC3) ![image](https://img.shields.io/badge/googlevis-R-276DC3)|
 | Text mining |![image](https://img.shields.io/badge/quanteda-R-276DC3) ![image](https://img.shields.io/badge/nltk-python-%233776AB)|
 
-### Projects on Github
+## Projects on Github
 
-* [![image](https://img.shields.io/badge/-Classification_with_Python-F37626?logo=jupyter&logoColor=white)](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/77a1ee2e-5d58-493f-81ae-5ee89423e3b0/view?access_token=03513cd500a9c5e0d19c5be5de14a9e5858ab0d1f4ca878597ed99a2f2045e87)
-      - Timeline: IBM Certificate, Machine Learning with Python, course n°8
-      - Topics: ![image](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white) ![image](https://img.shields.io/badge/-Get_&_Clean-6057FA) ![image](https://img.shields.io/badge/-Regression-4EDEDA) ![image](https://img.shields.io/badge/-Machine_learning-4EDEDA) 
+* [![image](https://img.shields.io/badge/-Classification_with_Python-F37626?logo=jupyter&logoColor=white&style=flat-square)](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/77a1ee2e-5d58-493f-81ae-5ee89423e3b0/view?access_token=03513cd500a9c5e0d19c5be5de14a9e5858ab0d1f4ca878597ed99a2f2045e87)  
+      - Timeline: IBM Certificate, Machine Learning with Python, course n°8  
+      - Topics: ![image](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white) ![image](https://img.shields.io/badge/-Get_&_Clean-8478EB) ![image](https://img.shields.io/badge/-Regression-62F56E) ![image](https://img.shields.io/badge/-Machine_learning-62F56E)
 
-* [![image](https://img.shields.io/badge/-Capstone_Project-181717?logo=github&style=flat-square)](https://github.com/vanAkim/IBM.Data.Science.Professional.Certificate/tree/main/9-Capstone_Project/FinalProject)
+* [![image](https://img.shields.io/badge/-Capstone_Project-181717?logo=github&style=flat-square)](https://github.com/vanAkim/IBM.Data.Science.Professional.Certificate/tree/main/9-Capstone_Project/FinalProject)  
+      - Timeline: IBM Certificate, Capstone , course n°8  
       - Topics: Get and Cleaning data, Exploratory Data Analysis, GEOJson data, Maps, Dataviz, Modelling, Machine Learning, Data analysis
 
       * Course: Getting and Cleaning Data, n°3  
@@ -65,13 +66,13 @@
 Python : ![image](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white)  
 R : ![image](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white)  
 Jupyter Notebook : ![image](https://img.shields.io/badge/-Jupyter_Notebook-F37626?logo=jupyter&logoColor=white)  
-Get & Clean data : ![image](https://img.shields.io/badge/-Get_&_Clean-6057FA)  
-EDA : ![image](https://img.shields.io/badge/-EDA-4E7ADE)  
+Get & Clean data : ![image](https://img.shields.io/badge/-Get_&_Clean-8478EB)  
+EDA : ![image](https://img.shields.io/badge/-EDA-359EF5)  
 Dataviz : ![image](https://img.shields.io/badge/-Dataviz-F5C658)  
 Maps : ![image](https://img.shields.io/badge/-Maps-F7DDA3)  
-Statistics : ![image](https://img.shields.io/badge/-Statistics-62C3F5)  
-Regressions : ![image](https://img.shields.io/badge/-Regression-4EDEDA)  
-Machine learning : ![image](https://img.shields.io/badge/-Machine_learning-4EDEDA)  
+Statistics : ![image](https://img.shields.io/badge/-Statistics-00DBAC)  
+Regressions : ![image](https://img.shields.io/badge/-Regression-62F56E)  
+Machine learning : ![image](https://img.shields.io/badge/-Machine_learning-62F56E)  
 NLP & Text mining : ![image](https://img.shields.io/badge/-NLP_&_Text_mining-31752D)  
-Data analysis : ![image](https://img.shields.io/badge/-Analysis-59FFBB)  
+Data analysis : ![image](https://img.shields.io/badge/-Analysis-D7F086)  
 Data products : ![image](https://img.shields.io/badge/-Data_Products-F76D5B)  
