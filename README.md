@@ -9,7 +9,7 @@
 
 2️⃣ Less regularly, I touched a lot of other frameworks, such as the creation of maps, database management, interactive solutions, text analysis.
 
-| Action      | Framework |
+| Action      | Shiny Framework |
 |-------------|-----------|
 | Data manipulation |[![image](https://img.shields.io/badge/pandas-python-%233776AB?logo=pandas&logoColor=white&labelColor=150458)](https://pandas.pydata.org/) [![image](https://img.shields.io/badge/tidyr-R-276DC3)](https://tidyr.tidyverse.org/) [![image](https://img.shields.io/badge/data.table-R-276DC3)](https://www.rdocumentation.org/packages/data.table/versions/1.13.6)|
 | Dataviz           |[![image](https://img.shields.io/badge/matplotlib-python-%233776AB)](https://matplotlib.org/) [![image](https://img.shields.io/badge/seaborn-python-%233776AB)](https://seaborn.pydata.org/) [![image](https://img.shields.io/badge/ggplot2-R-276DC3)](https://www.rdocumentation.org/packages/ggplot2)|
@@ -41,7 +41,7 @@
       - **Timeline**: *JHU Specialization, Data Products, course n°9*  
       - **Topics**: R, Get & Clean, Dataviz, Maps, Data products
 
-* [![image](https://img.shields.io/badge/-Next_Word_Prediction-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Data%20Science%20Capstone) [![image](https://img.shields.io/badge/-Next_Word_Prediction_App-4285F4?style=flat-square)](https://vanakim.shinyapps.io/SwiftKey_Proof-of-concept/)   
+* [![image](https://img.shields.io/badge/-Next_Word_Prediction-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Data%20Science%20Capstone) [![image](https://img.shields.io/badge/-Next_Word_Prediction_App-F0D4AF?style=flat-square)](https://vanakim.shinyapps.io/SwiftKey_Proof-of-concept/)   
       - **Timeline**: *JHU Specialization, Capstone project, course n°10*  
       - **Topics**: R, NLP & Text mining, EDA, Dataviz, Data products
 
