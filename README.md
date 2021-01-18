@@ -13,7 +13,7 @@
 |-------------|-----------|
 | Data manipulation |[![image](https://img.shields.io/badge/pandas-python-%233776AB?logo=pandas&logoColor=white&labelColor=150458)](https://pandas.pydata.org/) [![image](https://img.shields.io/badge/tidyr-R-276DC3)](https://tidyr.tidyverse.org/) [![image](https://img.shields.io/badge/data.table-R-276DC3)](https://www.rdocumentation.org/packages/data.table/versions/1.13.6)|
 | Dataviz           |[![image](https://img.shields.io/badge/matplotlib-python-%233776AB)](https://matplotlib.org/) [![image](https://img.shields.io/badge/seaborn-python-%233776AB)](https://seaborn.pydata.org/) [![image](https://img.shields.io/badge/ggplot2-R-276DC3)](https://www.rdocumentation.org/packages/ggplot2)|
-| Regression & ML   |[![image](https://img.shields.io/badge/scikit--learn-python-%233776AB?logo=scikit-learn&logoColor=white&labelColor=F7931E)](https://scikit-learn.org/stable/index.html#) ![image](https://img.shields.io/badge/caret-R-276DC3) [![image](https://img.shields.io/badge/randomforest-R-276DC3)](https://topepo.github.io/caret/index.html)|
+| Regression & ML   |[![image](https://img.shields.io/badge/scikit--learn-python-%233776AB?logo=scikit-learn&logoColor=white&labelColor=F7931E)](https://scikit-learn.org/stable/index.html#)  [![image](https://img.shields.io/badge/caret-R-276DC3)](https://topepo.github.io/caret/index.html)|
 | Maps        |[![image](https://img.shields.io/badge/leaflet-R-276DC3?logo=leaflet&logoColor=white&labelColor=199900)](https://leafletjs.com/) [![image](https://img.shields.io/badge/folium-python-%233776AB?logo=folium&logoColor=white&labelColor=77B829)](https://python-visualization.github.io/folium/)|
 | SQL         |[![image](https://img.shields.io/badge/MySQL-R-276DC3?logo=mysql&logoColor=white&labelColor=4479A1)](https://db.rstudio.com/databases/my-sql/) [![image](https://img.shields.io/badge/IBM--Db2-python-%233776AB)](https://www.ibm.com/analytics/db2)|
 | Interact    |[![image](https://img.shields.io/badge/plotly-R-276DC3)](https://plotly.com/) [![image](https://img.shields.io/badge/shiny-R-276DC3)](https://shiny.rstudio.com/)|
@@ -29,7 +29,7 @@
       - **Timeline**: *JHU Specialization, Reproducible Research, course n°6*  
       - **Topics**: R, Statistics, Data analysis, Dataviz
 
-* [![image](https://img.shields.io/badge/-Motor_trend-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Statistical%20Inference/FinalProject)  
+* [![image](https://img.shields.io/badge/-Motor_trend-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Regression%20Models/Final%20Project)  
       - **Timeline**: *JHU Specialization, Regression Models, course n°7*  
       - **Topics**: R, EDA Regression, Data analysis, Dataviz
 
