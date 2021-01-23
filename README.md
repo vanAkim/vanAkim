@@ -1,8 +1,9 @@
 ### Hello, there 👋
 
 [<img align="left" alt="vanAkim | postcard" height="32" width="32" src="https://raw.githubusercontent.com/vanAkim/vanAkim/main/business-cards.svg" />](https://vanakim.github.io/postcard/bio.html)
-[<img align="left" alt="vanAkim | Twitter" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" />](https://twitter.com/vanAkim_ee)
+[<img align="left" alt="vanAkim | Twitter" height="32" width="32" color="#1DA1F2" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" />](https://twitter.com/vanAkim_ee)
 [<img alt="vanAkim | Linkedin" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />](https://www.linkedin.com/in/akim-van-eersel-115553116/)   
+
 
 #### I'm currently a data scientist, a graduate engineer and my first love is physics.  
 1️⃣ For now, I enjoy using R and Python (especially through Jupyter Notebook). I am always ecstatic when I discover a new functionality in the different packages of data manipulation, dataviz, and regressions and machine learning.
