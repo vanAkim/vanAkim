@@ -29,7 +29,7 @@
 
 * [![image](https://img.shields.io/badge/-Meteoroligical_events-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Reproducible%20Research/FinalProject)  
       - **Timeline**: *JHU Specialization, Reproducible Research, course n°5*  
-      - **Topics**: <span style="color:#F0B87B">R, Get & Clean, Data analysis, Dataviz</span>
+      - **Topics**: R, Get & Clean, Data analysis, Dataviz
 
 * [![image](https://img.shields.io/badge/-Central_Limit_Theorem-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Statistical%20Inference/FinalProject)  
       - **Timeline**: *JHU Specialization, Reproducible Research, course n°6*  
@@ -58,6 +58,10 @@
 * [![image](https://img.shields.io/badge/-Culture_venues_clustering_in_Toulouse-181717?logo=github&style=flat-square)](https://github.com/vanAkim/IBM.Data.Science.Professional.Certificate/tree/main/9-Capstone_Project/FinalProject)  
       - **Timeline**: *IBM Certificate, Capstone project, course n°9*  
       - **Topics**: Python, EDA, Machine learning, Data analysis, Dataviz, Maps
+
+* [![image](https://img.shields.io/badge/-French_COVID19_infographics_Twitter_bot-181717?logo=github&style=flat-square)](https://github.com/vanAkim/covid-infographic-bot)  
+      - **Timeline**: *Personal project*  
+      - **Topics**: Python, Get & Clean, Dataviz, API, Twitter, Github Actions
 
 <!---
 * [![image](https://img.shields.io/badge/-Tidy_data-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Learning_ETL_EDA)  
