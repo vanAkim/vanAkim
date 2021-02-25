@@ -59,7 +59,7 @@
       - **Timeline**: *IBM Certificate, Capstone project, course n°9*  
       - **Topics**: Python, EDA, Machine learning, Data analysis, Dataviz, Maps
 
-* [![image](https://img.shields.io/badge/-French_COVID19_infographics_Twitter_bot-181717?logo=github&style=flat-square)](https://github.com/vanAkim/covid-infographic-bot)  
+* [![image](https://img.shields.io/badge/-French_COVID19_infographics_Twitter_bot-181717?logo=github&style=flat-square)](https://github.com/vanAkim/covid-infographic-bot) [![image](https://img.shields.io/badge/-Infographies_COVID-1DA1F2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/InfographiCOVID)    
       - **Timeline**: *Personal project*  
       - **Topics**: Python, Get & Clean, Dataviz, API, Twitter, Github Actions
 
