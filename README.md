@@ -2,7 +2,7 @@
 
 [<img align="left" alt="vanAkim | postcard" height="32" width="32" src="https://raw.githubusercontent.com/vanAkim/vanAkim/main/globe-grid.svg" />](https://vanakim.github.io/postcard/bio.html)
 [<img align="left" alt="vanAkim | Twitter" height="32" width="32" src="https://raw.githubusercontent.com/vanAkim/vanAkim/main/twitter.svg" />](https://twitter.com/vanAkim_ee)
-[<img alt="vanAkim | Linkedin" height="32" width="32" src="https://raw.githubusercontent.com/vanAkim/vanAkim/main/linkedin.svg" />](https://www.linkedin.com/in/vanakim/) 
+[<img alt="vanAkim | Linkedin" height="32" width="32" src="https://raw.githubusercontent.com/vanAkim/vanAkim/main/linkedin.svg" />](https://www.linkedin.com/in/vanakim/)
 
 <!---
 [<img align="left" alt="vanAkim | postcard" height="32" width="32" src="https://raw.githubusercontent.com/vanAkim/vanAkim/main/business-cards.svg" />](https://vanakim.github.io/postcard/bio.html)
@@ -29,7 +29,7 @@
 
 * [![image](https://img.shields.io/badge/-Meteoroligical_events-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Reproducible%20Research/FinalProject)  
       - **Timeline**: *JHU Specialization, Reproducible Research, course n°5*  
-      - **Topics**: R, Get & Clean, Data analysis, Dataviz
+      - **Topics**: <span style="color:#F0B87B">R, Get & Clean, Data analysis, Dataviz</span>
 
 * [![image](https://img.shields.io/badge/-Central_Limit_Theorem-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Statistical%20Inference/FinalProject)  
       - **Timeline**: *JHU Specialization, Reproducible Research, course n°6*  
