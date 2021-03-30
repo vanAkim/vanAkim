@@ -27,41 +27,41 @@
 
 ## Trending Github projects and their main resources
 
-* [![image](https://img.shields.io/badge/-Meteoroligical_events-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Reproducible%20Research/FinalProject)  
-      - **Timeline**: *JHU Specialization, Reproducible Research, course n°5*  
-      - **Topics**: R, Get & Clean, Data analysis, Dataviz
-
-* [![image](https://img.shields.io/badge/-Central_Limit_Theorem-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Statistical%20Inference/FinalProject)  
-      - **Timeline**: *JHU Specialization, Reproducible Research, course n°6*  
-      - **Topics**: R, Statistics, Data analysis, Dataviz
-
-* [![image](https://img.shields.io/badge/-Motor_trend-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Regression%20Models/Final%20Project)  
-      - **Timeline**: *JHU Specialization, Regression Models, course n°7*  
-      - **Topics**: R, EDA Regression, Data analysis, Dataviz
-
-* [![image](https://img.shields.io/badge/-Human_Activity_Recognition-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Practical%20Machine%20Learning/FinalProject)  
-      - **Timeline**: *JHU Specialization, Practical Machine Learning, course n°8*  
-      - **Topics**: R, Machine learning, Dataviz
-
-* [![image](https://img.shields.io/badge/-Toulouse_Postcodes_Map-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Data%20Products/FinalProject) [![image](https://img.shields.io/badge/-Toulouse_Postcodes_Map-4285F4?logo=google-maps&style=flat-square&logoColor=white)](https://vanakim.shinyapps.io/ToulouseMap/)   
-      - **Timeline**: *JHU Specialization, Data Products, course n°9*  
-      - **Topics**: R, Get & Clean, Dataviz, Maps, Data products
-
-* [![image](https://img.shields.io/badge/-Next_Word_Prediction-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Data%20Science%20Capstone) [![image](https://img.shields.io/badge/-Next_Word_Prediction_App-F0D4AF?style=flat-square)](https://vanakim.shinyapps.io/SwiftKey_Proof-of-concept/)   
-      - **Timeline**: *JHU Specialization, Capstone project, course n°10*  
-      - **Topics**: R, NLP & Text mining, EDA, Dataviz, Data products
-
-* [![image](https://img.shields.io/badge/-Classification_with_Python-F37626?logo=jupyter&logoColor=white&style=flat-square)](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/77a1ee2e-5d58-493f-81ae-5ee89423e3b0/view?access_token=03513cd500a9c5e0d19c5be5de14a9e5858ab0d1f4ca878597ed99a2f2045e87)  
-      - **Timeline**: *IBM Certificate, Machine Learning with Python, course n°8*  
-      - **Topics**: Python, Get & Clean, Regressions, Machine learning
+* [![image](https://img.shields.io/badge/-French_COVID19_infographics_Twitter_bot-181717?logo=github&style=flat-square)](https://github.com/vanAkim/covid-infographic-bot) [![image](https://img.shields.io/badge/-Infographies_COVID-1DA1F2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/InfographiCOVID)    
+      - **Timeline**: *Personal project. Early 2021*  
+      - **Topics**: Python, Get & Clean, Dataviz, API, Twitter, Github Actions
 
 * [![image](https://img.shields.io/badge/-Culture_venues_clustering_in_Toulouse-181717?logo=github&style=flat-square)](https://github.com/vanAkim/IBM.Data.Science.Professional.Certificate/tree/main/9-Capstone_Project/FinalProject)  
-      - **Timeline**: *IBM Certificate, Capstone project, course n°9*  
+      - **Timeline**: *IBM Certificate, Capstone project, course n°9. Late 2020*  
       - **Topics**: Python, EDA, Machine learning, Data analysis, Dataviz, Maps
 
-* [![image](https://img.shields.io/badge/-French_COVID19_infographics_Twitter_bot-181717?logo=github&style=flat-square)](https://github.com/vanAkim/covid-infographic-bot) [![image](https://img.shields.io/badge/-Infographies_COVID-1DA1F2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/InfographiCOVID)    
-      - **Timeline**: *Personal project*  
-      - **Topics**: Python, Get & Clean, Dataviz, API, Twitter, Github Actions
+* [![image](https://img.shields.io/badge/-Classification_with_Python-F37626?logo=jupyter&logoColor=white&style=flat-square)](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/77a1ee2e-5d58-493f-81ae-5ee89423e3b0/view?access_token=03513cd500a9c5e0d19c5be5de14a9e5858ab0d1f4ca878597ed99a2f2045e87)  
+      - **Timeline**: *IBM Certificate, Machine Learning with Python, course n°8. Late 2020*  
+      - **Topics**: Python, Get & Clean, Regressions, Machine learning
+
+* [![image](https://img.shields.io/badge/-Next_Word_Prediction-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Data%20Science%20Capstone) [![image](https://img.shields.io/badge/-Next_Word_Prediction_App-F0D4AF?style=flat-square)](https://vanakim.shinyapps.io/SwiftKey_Proof-of-concept/)   
+      - **Timeline**: *JHU Specialization, Capstone project, course n°10. Late 2020*  
+      - **Topics**: R, NLP & Text mining, EDA, Dataviz, Data products
+
+* [![image](https://img.shields.io/badge/-Toulouse_Postcodes_Map-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Data%20Products/FinalProject) [![image](https://img.shields.io/badge/-Toulouse_Postcodes_Map-4285F4?logo=google-maps&style=flat-square&logoColor=white)](https://vanakim.shinyapps.io/ToulouseMap/)   
+      - **Timeline**: *JHU Specialization, Data Products, course n°9. Late 2020*  
+      - **Topics**: R, Get & Clean, Dataviz, Maps, Data products
+
+* [![image](https://img.shields.io/badge/-Human_Activity_Recognition-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Practical%20Machine%20Learning/FinalProject)  
+      - **Timeline**: *JHU Specialization, Practical Machine Learning, course n°8. Late 2020*  
+      - **Topics**: R, Machine learning, Dataviz
+
+* [![image](https://img.shields.io/badge/-Motor_trend-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Regression%20Models/Final%20Project)  
+      - **Timeline**: *JHU Specialization, Regression Models, course n°7. Mid 2020*  
+      - **Topics**: R, EDA Regression, Data analysis, Dataviz
+
+* [![image](https://img.shields.io/badge/-Central_Limit_Theorem-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Statistical%20Inference/FinalProject)  
+      - **Timeline**: *JHU Specialization, Reproducible Research, course n°6. Mid 2020*  
+      - **Topics**: R, Statistics, Data analysis, Dataviz
+
+* [![image](https://img.shields.io/badge/-Meteoroligical_events-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Data.Science.Specialization/tree/master/Reproducible%20Research/FinalProject)  
+      - **Timeline**: *JHU Specialization, Reproducible Research, course n°5. Mid 2020*  
+      - **Topics**: R, Get & Clean, Data analysis, Dataviz
 
 <!---
 * [![image](https://img.shields.io/badge/-Tidy_data-181717?logo=github&style=flat-square)](https://github.com/vanAkim/Learning_ETL_EDA)  
