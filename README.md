@@ -27,7 +27,7 @@
 
 ## Trending Github projects and their main resources (most recent top)
 
-* [![image](https://img.shields.io/badge/-Culture_venues_clustering_in_Toulouse-181717?logo=github&style=flat-square)](https://github.com/vanAkim/SQL-for-Data-Science)  
+* [![image](https://img.shields.io/badge/-US_Congress_members_Twitter_activity-181717?logo=github&style=flat-square)](https://github.com/vanAkim/SQL-for-Data-Science)  
       - **Timeline**: *UCDavis Specialization, Capstone project, course n°4. Spring 2021*  
       - **Topics**: Python & Jupyter Notebook, SQL, EDA, Data analysis, Regression, Dataviz
 
