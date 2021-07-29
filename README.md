@@ -10,7 +10,7 @@
 [<img alt="vanAkim | Linkedin" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />](https://www.linkedin.com/in/akim-van-eersel-115553116/)   
 --->
 
-### <span style="color:#ffa000;"> _Notes: every badges (images) is an embedded link. For example, click either [![image](https://img.shields.io/badge/-How_to_share_data-181717?logo=github&style=flat-square)](https://github.com/vanAkim/SQL-for-Data-Science) or  [![image](https://img.shields.io/badge/-Adobe_color-FF0000?logo=adobe)](https://color.adobe.com/fr/create/color-wheel)_ </span>
+### <span style="color:#ffa000;"> _Notes: every badges (images) is an embedded link. For example, click either [![image](https://img.shields.io/badge/-How_to_share_data-181717?logo=github&style=flat-square)](https://github.com/jtleek/datasharing) or  [![image](https://img.shields.io/badge/-Adobe_color-FF0000?logo=adobe)](https://color.adobe.com/fr/create/color-wheel)_ </span>
 
 
 #### I'm currently a data scientist, a graduate engineer and my first love is physics.  
