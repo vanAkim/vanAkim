@@ -10,6 +10,9 @@
 [<img alt="vanAkim | Linkedin" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />](https://www.linkedin.com/in/akim-van-eersel-115553116/)   
 --->
 
+#### <span style="color:#ffa000;">Notes: every badges _(images)_ in this page is an embedded link. For example, you can click here → [![image](https://img.shields.io/badge/-How_to_share_data-181717?logo=github&style=flat-square)](https://github.com/vanAkim/SQL-for-Data-Science) or here → [![image](https://img.shields.io/badge/-Adobe_color-FF0000?logo=adobe)](https://color.adobe.com/fr/create/color-wheel) </span>
+
+
 #### I'm currently a data scientist, a graduate engineer and my first love is physics.  
 1️⃣ For now, I enjoy using R and Python (especially through Jupyter Notebook). I am always ecstatic when I discover a new functionality in the different packages of data manipulation, dataviz, and regressions and machine learning.
 
